@@ -1,0 +1,32 @@
+2015/09/22 02:44:37 #################### BEGIN OF LOG ##########################
+2015/09/22 02:44:37 [INFO] machine name:  jedi054
+2015/09/22 02:44:37 [INFO] adding influxdb client:  130.207.111.172:8086:cadvisor:cadvisor
+2015/09/22 02:44:37 [INFO] adding signal handler for SIGTERM
+2015/09/22 02:44:37 [INFO] listening to docker container events
+2015/09/22 02:44:41 [INFO] event occurred:  &{create 48cd432545d1fc7ee7c201b04f5098a51a5e0140b3a668914d89ef6e4392baa6 mangalaman93/sipp 1442904281}
+2015/09/22 02:44:42 [INFO] event occurred:  &{start 48cd432545d1fc7ee7c201b04f5098a51a5e0140b3a668914d89ef6e4392baa6 mangalaman93/sipp 1442904282}
+2015/09/22 02:44:42 [INFO] add volume /var/lib/docker/volumes/ae6e928415adddc8da282d7b83e60b9eb3a3a900ca4146ba18d7166ad37c3b0a/_data to map for container 48cd432545d1fc7ee7c201b04f5098a51a5e0140b3a668914d89ef6e4392baa6
+2015/09/22 02:44:42 [WARN] less than 2 .csv files present for volume /var/lib/docker/volumes/ae6e928415adddc8da282d7b83e60b9eb3a3a900ca4146ba18d7166ad37c3b0a/_data of container nova-28ad1075-7db7-4117-808f-05212c3066da
+2015/09/22 02:44:46 [WARN] less than 2 .csv files present for volume /var/lib/docker/volumes/ae6e928415adddc8da282d7b83e60b9eb3a3a900ca4146ba18d7166ad37c3b0a/_data of container nova-28ad1075-7db7-4117-808f-05212c3066da
+2015/09/22 02:44:50 [WARN] less than 2 .csv files present for volume /var/lib/docker/volumes/ae6e928415adddc8da282d7b83e60b9eb3a3a900ca4146ba18d7166ad37c3b0a/_data of container nova-28ad1075-7db7-4117-808f-05212c3066da
+2015/09/22 02:44:54 [WARN] less than 2 .csv files present for volume /var/lib/docker/volumes/ae6e928415adddc8da282d7b83e60b9eb3a3a900ca4146ba18d7166ad37c3b0a/_data of container nova-28ad1075-7db7-4117-808f-05212c3066da
+2015/09/22 02:44:58 [WARN] less than 2 .csv files present for volume /var/lib/docker/volumes/ae6e928415adddc8da282d7b83e60b9eb3a3a900ca4146ba18d7166ad37c3b0a/_data of container nova-28ad1075-7db7-4117-808f-05212c3066da
+2015/09/22 02:45:02 [WARN] less than 2 .csv files present for volume /var/lib/docker/volumes/ae6e928415adddc8da282d7b83e60b9eb3a3a900ca4146ba18d7166ad37c3b0a/_data of container nova-28ad1075-7db7-4117-808f-05212c3066da
+2015/09/22 02:45:03 [INFO] event occurred:  &{create a57d26866f7f3865bb3c2c0e9dfdf37e494fd8f2bb90d95812b6a2b6bcfb8aca mangalaman93/sipp 1442904303}
+2015/09/22 02:45:03 [INFO] event occurred:  &{start a57d26866f7f3865bb3c2c0e9dfdf37e494fd8f2bb90d95812b6a2b6bcfb8aca mangalaman93/sipp 1442904303}
+2015/09/22 02:45:03 [INFO] add volume /var/lib/docker/volumes/bc10b02a165a2e72dfd6244401a1318d47b18053273004a01f3b9a514bce4ebe/_data to map for container a57d26866f7f3865bb3c2c0e9dfdf37e494fd8f2bb90d95812b6a2b6bcfb8aca
+2015/09/22 02:45:03 [WARN] less than 2 .csv files present for volume /var/lib/docker/volumes/bc10b02a165a2e72dfd6244401a1318d47b18053273004a01f3b9a514bce4ebe/_data of container nova-6e1c49b6-b0f1-4ced-9249-749b5a9b2f04
+2015/09/22 02:45:06 [WARN] less than 2 .csv files present for volume /var/lib/docker/volumes/ae6e928415adddc8da282d7b83e60b9eb3a3a900ca4146ba18d7166ad37c3b0a/_data of container nova-28ad1075-7db7-4117-808f-05212c3066da
+2015/09/22 02:45:07 [WARN] less than 2 .csv files present for volume /var/lib/docker/volumes/bc10b02a165a2e72dfd6244401a1318d47b18053273004a01f3b9a514bce4ebe/_data of container nova-6e1c49b6-b0f1-4ced-9249-749b5a9b2f04
+2015/09/22 03:25:35 [INFO] event occurred:  &{kill 1550b6dbb4d239848e3b6719a4c1fcbe1cb15db424ef995ee4deb2b6f387e4bb mangalaman93/cadvisor 1442906735}
+2015/09/22 03:25:35 [INFO] event occurred:  &{die 1550b6dbb4d239848e3b6719a4c1fcbe1cb15db424ef995ee4deb2b6f387e4bb mangalaman93/cadvisor 1442906735}
+2015/09/22 03:25:35 [INFO] event occurred:  &{destroy 1550b6dbb4d239848e3b6719a4c1fcbe1cb15db424ef995ee4deb2b6f387e4bb mangalaman93/cadvisor 1442906735}
+2015/09/22 03:25:35 [INFO] beginning cleanup!
+2015/09/22 03:25:35 [INFO] event occurred:  &{EOF   0}
+2015/09/22 03:25:35 [INFO] exiting dispatchRtts for container nova-28ad1075-7db7-4117-808f-05212c3066da with error: EOF
+2015/09/22 03:25:35 [INFO] exiting dispatchStats for container nova-28ad1075-7db7-4117-808f-05212c3066da with error: EOF
+2015/09/22 03:25:35 [INFO] cleaned up for volume /var/lib/docker/volumes/ae6e928415adddc8da282d7b83e60b9eb3a3a900ca4146ba18d7166ad37c3b0a/_data of container nova-28ad1075-7db7-4117-808f-05212c3066da
+2015/09/22 03:25:35 [INFO] exiting dispatchRtts for container nova-6e1c49b6-b0f1-4ced-9249-749b5a9b2f04 with error: EOF
+2015/09/22 03:25:35 [INFO] exiting dispatchStats for container nova-6e1c49b6-b0f1-4ced-9249-749b5a9b2f04 with error: EOF
+2015/09/22 03:25:35 [INFO] cleaned up for volume /var/lib/docker/volumes/bc10b02a165a2e72dfd6244401a1318d47b18053273004a01f3b9a514bce4ebe/_data of container nova-6e1c49b6-b0f1-4ced-9249-749b5a9b2f04
+2015/09/22 03:25:35 [INFO] cleanup done, exiting!

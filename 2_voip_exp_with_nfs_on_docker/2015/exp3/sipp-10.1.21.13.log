@@ -1,0 +1,12 @@
+2015/09/22 02:45:27 #################### BEGIN OF LOG ##########################
+2015/09/22 02:45:27 [INFO] machine name:  jedi055
+2015/09/22 02:45:27 [INFO] adding influxdb client:  130.207.111.172:8086:cadvisor:cadvisor
+2015/09/22 02:45:27 [INFO] adding signal handler for SIGTERM
+2015/09/22 02:45:27 [INFO] listening to docker container events
+2015/09/22 03:25:38 [INFO] event occurred:  &{kill a653ca49295a04dd953fb869d86297dc75ae1ab66439fd59567b73d631f1d501 mangalaman93/snort 1442906738}
+2015/09/22 03:25:39 [INFO] event occurred:  &{kill 9f23f5b17b11ff92be20df24380110d10154a9e7f07e27b6ec740e2171035f54 mangalaman93/cadvisor 1442906739}
+2015/09/22 03:25:39 [INFO] event occurred:  &{die 9f23f5b17b11ff92be20df24380110d10154a9e7f07e27b6ec740e2171035f54 mangalaman93/cadvisor 1442906739}
+2015/09/22 03:25:39 [INFO] event occurred:  &{destroy 9f23f5b17b11ff92be20df24380110d10154a9e7f07e27b6ec740e2171035f54 mangalaman93/cadvisor 1442906739}
+2015/09/22 03:25:39 [INFO] beginning cleanup!
+2015/09/22 03:25:39 [INFO] event occurred:  &{EOF   0}
+2015/09/22 03:25:39 [INFO] cleanup done, exiting!
